@@ -1,3 +1,5 @@
-学习教程
+学习锟教筹拷
 git is a free
 demo this
+manager change
+svn
